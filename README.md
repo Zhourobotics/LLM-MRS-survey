@@ -1,2 +1,3 @@
 # LLM-MRS-survey
-Repository for the Large Language Models for multi-robot systems survey paper
+Paper: https://arxiv.org/pdf/2502.03814
+We will add the latest studies on Large Language Models for Multi-Robot Systems in this repo. 
